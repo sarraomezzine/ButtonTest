@@ -114,3 +114,42 @@
     flex-direction: column;
   }
 }
+
+.mybutton1 {
+  background-color:#0070f3;
+  color: azure;
+  text-align: center;
+  height: 40px;
+  margin-right: 30%;
+  margin-left: 30%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  border-radius: 0.675rem ;
+  border:#0D6EFD ;
+}
+
+.mybutton2 {
+  background-color:#ffcad4;
+  color: #ba181b;
+  text-align: center;
+  height: 40px;
+  margin-right: 30%;
+  margin-left: 30%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  border-radius: 0.675rem ;
+  border:#ffcad4 ;
+}
+
+.mybutton3 {
+  background-color:#e9ecef;
+  color: #324a5f;
+  text-align: center;
+  height: 40px;
+  margin-right: 30%;
+  margin-left: 30%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  border-radius: 0.675rem ;
+  border:#e9ecef ;
+}
